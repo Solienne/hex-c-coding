@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
 * _atoi - converts string to int
-* 
+*
 * @s: string
 * Return: the int
 */
